@@ -1,8 +1,10 @@
 Olá! Me chamo Alan Morato
 
 Sou Associate Product Manager - Dados na DNC
-Trabalho com Dados
-Estou aprendendo Python para dados, SQL, HTML, CSS e javascript
+
+Trabalho com análise de dados e desenvolvimento de produto
+
+Estou aprendendo Python para análise de dados, SQL, HTML, CSS e javascript
 
 
 <div align="center">
