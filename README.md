@@ -1,6 +1,6 @@
 Olá! Me chamo Alan Morato
 
-Sou Associate Product Manager - Dados na DNC
+Sou Product Manager - Dados na DNC
 
 Trabalho com análise de dados e desenvolvimento de produto
 
